@@ -1,0 +1,60 @@
+.nav-item {
+    margin-left: 15%;
+}
+
+.down {
+    margin-top: 10px;
+}
+
+.btn-btn-warning {
+    border: 1px solid;
+    border-radius: 50%;
+    height: 50px;
+    width: 60px;
+    border-radius: 50%;
+    background-position: center;
+    background-size: cover;
+}
+
+.btn {
+    border: 1px solid black;
+}
+
+.body {
+    background-image: url('file:///C:/Users/IC/Desktop/internship/images/Financial-Industry.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 380px;
+    border-radius: 70%;
+}
+
+.images {
+    width: 100%;
+    display: flex;
+    background-color: orange;
+}
+
+.image img {
+    height: 50px;
+    width: 60px;
+    border-radius: 50%;
+    background-position: center;
+    background-size: cover;
+}
+
+.circle {
+    border: 1px solid;
+    border-radius: 10%;
+    border-radius: 10%;
+}
+
+.curved-button {
+    background-color: orange;
+    /* Green background color */
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
+}
